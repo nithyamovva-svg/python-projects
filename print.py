@@ -1,0 +1,6 @@
+print ("hello world")
+print (5)
+print(5.7)
+print("hi my name is nithya")
+print("i love painting")
+print (56 + 34)
