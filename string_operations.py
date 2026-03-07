@@ -1,0 +1,15 @@
+a=5
+b=2.4
+c="1"
+d=True
+print(type(a),type(b),type(c),type(d))
+print(type(5),type(2.4),type("dog"),type(True))
+print(float(a),str(a),bool(a))
+print(int(b),str(b),bool(b))
+print(float(c),int(c),bool(c))
+print(float(d),str(d),int(d))
+a="python"
+b="coding"
+print(a+b)
+print(a[1])
+print(b[3:5:1])
